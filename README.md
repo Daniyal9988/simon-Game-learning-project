@@ -1,1 +1,1 @@
-This game i created was a part of my course that i followed on udemy by angela yu where i was learning MERN stack 
+This game i created was a part of my course that i followed on udemy by angela yu where i was learning MERN stack. to play this game simply clone the project in your local repo and open index.html file 
